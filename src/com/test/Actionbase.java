@@ -9,7 +9,7 @@ public class Actionbase {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
-           System.setProperty("webdriver.chrome.driver","C:\\C\\admin\\eclipse\\eclipse-java-2021-06-R-win32-x86_64\\chromedriver(1).exe");
+           System.setProperty("webdriver.chrome.driver","C:\\C\\admin\\eclipse\\eclipse-java-2021-06-R-win32-x86_64\\chromedriver.exe");
 		
 		WebDriver driver=new ChromeDriver();
 		
