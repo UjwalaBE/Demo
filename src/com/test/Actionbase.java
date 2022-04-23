@@ -48,6 +48,8 @@ public class Actionbase {
 			driver.findElement(By.linkText("Selenium")).click();
 
 			Thread.sleep(2000);
+			
+			driver.close();
 		   
 	}
 
